@@ -1,4 +1,7 @@
-# RecordsCount
+<img src="https://github.com/igorkasyanchuk/records_count/blob/master/doc/count.png?raw=true"
+/>
+
+# records_count
 
 See in development logs how many records your queries returns. It can help with solving performance issues.
 
