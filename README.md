@@ -1,9 +1,10 @@
-[![RailsJazz](https://github.com/igorkasyanchuk/rails_time_travel/blob/main/docs/my_other.svg?raw=true)](https://www.railsjazz.com)
-
 <img src="https://github.com/igorkasyanchuk/records_count/blob/master/doc/count.png?raw=true"
 />
 
 # records_count
+
+[![RailsJazz](https://github.com/igorkasyanchuk/rails_time_travel/blob/main/docs/my_other.svg?raw=true)](https://www.railsjazz.com)
+
 
 See in development logs how many records your queries returns. It can help with solving performance issues.
 
