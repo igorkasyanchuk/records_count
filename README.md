@@ -1,3 +1,5 @@
+[![RailsJazz](https://github.com/igorkasyanchuk/rails_time_travel/blob/main/docs/my_other.svg?raw=true)](https://www.railsjazz.com)
+
 <img src="https://github.com/igorkasyanchuk/records_count/blob/master/doc/count.png?raw=true"
 />
 
