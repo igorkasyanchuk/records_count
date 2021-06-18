@@ -1,4 +1,4 @@
-<img src="https://github.com/igorkasyanchuk/records_count/blob/master/doc/count.png?raw=true"
+<img src="https://raw.githubusercontent.com/igorkasyanchuk/records_count/master/doc/count.png"
 />
 
 # records_count
